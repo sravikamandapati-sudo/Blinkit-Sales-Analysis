@@ -1,2 +1,3 @@
-# Blinkit-Sales-Analysis
-I have developed a project in Power BI, creating multiple dashboards and tables to analyse the data. The process involved several stage like Data clenaing, Data Preprocessing and Data Visualization.
+# Blinkit Sales Anlaysis(Using POWER BI)
+##Objective:
+Wanted to create a sales analysis dashboard, so that blinkit understand their customers and sales
