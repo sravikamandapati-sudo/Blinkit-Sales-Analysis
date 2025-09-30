@@ -3,6 +3,8 @@
 Wanted to create a sales analysis dashboard, so that blinkit understand their customers and sales
 
 -<a href="https://github.com/sravikamandapati-sudo/Blinkit-Sales-Analysis/blob/main/BlinkIT%20Grocery%20Data.xlsx">Dataset</a>
+
+
 KPI’s Requirements :
 
 1.Total Sales: Overall items generated from all items sold.
@@ -11,6 +13,8 @@ KPI’s Requirements :
 Average Rating: Average customer rating for items sold.
 
 -<a href="https://github.com/sravikamandapati-sudo/Blinkit-Sales-Analysis/blob/main/Screenshot%202025-09-18%20083447.png">Dashboard</a>
+
+
 Charts’s Requirements:
 
 1.Total Sales by Fat Content:
